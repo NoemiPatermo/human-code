@@ -1,0 +1,94 @@
+2. Hai sonno, oggi hai studiato tanto, è il momento di andare a letto
+
+Decido si spegnere il pc,
+let eserciziFiniti =  libertà,
+let noEserciziNoParty = continua a lavorare,
+    IF (eserciziFiniti === libertà){
+        - puoi decidere di disconnettere il cervello;
+        - solo se hai pushato gli esercizi;
+        - puoi andare a dormire;
+        - non perdere tempo e dormi;
+    } ELSE IF (noEserciziNoParty === continua a lavorare){
+        - rivedi la lezione di Ottavio;
+        - chiarisci i concetti;
+        - pusha tutto (don't forget!);
+        - check finale;
+    }
+
+step successivi
+    - spegni il pc,
+    - alzati dalla sedia e dirigiti verso il bagno, 
+    - ti è venuta sete,
+    - ti dirigi verso la cucina,
+
+let acquaFresca = dissetati;
+let acquaTemperaturaAmbiente = opta per il succo di frutta (che sta sicuro in frigo!);
+    IF (acquaFresca === dissetati){
+        - apri il frigorifero;
+        - qualcuno avrà ricordato di mettere l'acqua in frigo (sei stata fortunata);
+        - bevi dalla bottiglia (anche se non si fa, non è corretto ma tu adori farlo!);
+        - cerchi qualcosa da mangiare ma ti ricordi che sei a dieta da una vita,
+        - chiudi il frigo;
+    } ELSE IF (acquaTemperaturaAmbiente === opta per il succo di frutta){
+        - apri il frigo e non trovi acqua fresca;
+        - ripieghi sul succo di frutta ace;
+        - prendi un bicchiere;
+        - ti versi il succo;
+        - lo bevi davanti il frigo, nel dubbio;
+        - rimetti il succo in frigo, chiudi lo sportello;
+    }
+adesso ti dirigi verso il bagno,
+    devi lavarti i denti,
+    sei stanca e vuoi andare a letto,
+    il bagno è occupato da tuo fratello (come sempre),
+let bagnoLibero =  entra;
+let bagnoOccupato = aspetta;
+    IF (bagnoLibero === entra){
+        - ti lavi i denti;
+        - ti strucchi;
+        - te la prendi comoda;
+    } ELSE IF ( bagnoOccupato === aspetta){
+        - inizi lunghi respiri meditativi;
+        - sai già  che tuo fratello sta in bagno le ore;
+        - rispondi a qualche messaggio;
+        - ti spazientisci;
+        - capisci che lui non uscirà a breve;
+        - vai nell'altro bagno e amen.
+    }
+- Ti dirigi verso la tua camera, 
+- speri in una serata fresca ma sai già che verrai delusa,
+- stai per metterti il pigiama,
+- ricordi improvvisamente l'impegno di domani,
+- pensi a cosa indossare per velocizzare i tempi,
+- apri l'armadio,
+- osservi,
+- sai di essere una tipa decisa,
+- per cui decidi domani mattina stesso,
+- chiudi l'armadio,
+- adesso sei davvero ko,
+- il bagno è libero,
+- ne approfitti per una doccia gelida,
+- entri e fai le tue cose,
+- metti il pigiama,
+- metti il contorno occhi (bisogna combattere l'età),
+- finalmente puoi metterti a letto, 
+
+let seiStancaMorta = ti addormenti subito,
+let prendiIlTel = sai già che non dormirai a breve;
+IF (seiStancaMorta === ti addormenti subito){
+    - appena poggiata la testa sul cuscino crolli,
+    - buonanotte ciao a tutti,
+} ELSE IF (prendiIlTel === sai già che non dormirai){
+    - come quasi ogni sera entri su istagram;
+    - inizi a scrollare;
+    - guardi un pò in giro;
+    - a volte ridi;
+    - a volte meno;
+    - il sonno svanisce;
+    - pensi pure ai concetti che hai imparato oggi al corso Boolean;
+    - pensi agli snack che ami tanto (lol);
+    - fino a quando decidi di importi di dormire;
+    - posi il telefono sul comodino;
+    - ciaone a domani
+}
+   
